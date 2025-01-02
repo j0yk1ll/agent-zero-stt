@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+sse_starlette
+torch
+faster-whisper
+numpy
+asyncio
+torchaudio
